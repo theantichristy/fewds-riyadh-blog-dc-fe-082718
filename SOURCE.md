@@ -1,6 +1,6 @@
 HEADING
 
-`Welcome to Riyadh`
+```
 
 SUB HEAD
 
